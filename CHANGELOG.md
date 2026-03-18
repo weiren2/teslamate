@@ -25,7 +25,7 @@
 - ci: ensure fully purging PR related tags for images hosted on GHCR on PR close (#5212 - @swiffer)
 - ci: build images for main branch and use buildcache of main as fallback for PR builds (#5212 - @swiffer)
 - ci: run Purge PR images workflow only if PR is from our own repo (#5217 - @swiffer)
-- ci: ensure setting the output for check_paths correctly (#5219 - @swiffer)
+- ci: for check_paths ensure the job value is retrieved and set as workflow output correctly (#5219 - @swiffer)
 
 #### Dashboards
 
