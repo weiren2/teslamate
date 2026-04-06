@@ -29,6 +29,9 @@
 - build(deps): bump castore from 1.0.17 to 1.0.18 (#5255)
 - build(deps-dev): bump credo from 1.7.16 to 1.7.17 (#5254)
 - build(deps): bump floki from 0.38.0 to 0.38.1 (#5249)
+- build(deps): bump crate-ci/typos from 1.44.0 to 1.45.0 (#5251)
+- build(deps): bump actions/cache from 5.0.3 to 5.0.4 (#5248)
+- build(deps): bump dorny/paths-filter from 4.0.0 to 4.0.1 (#5247)
 
 #### Dashboards
 
