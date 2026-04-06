@@ -26,6 +26,9 @@
 - ci: build images for main branch and use buildcache of main as fallback for PR builds (#5212 - @swiffer)
 - ci: run Purge PR images workflow only if PR is from our own repo (#5217 - @swiffer)
 - ci: for check_paths ensure the job value is retrieved and set as workflow output correctly (#5219 - @swiffer)
+- build(deps): bump castore from 1.0.17 to 1.0.18 (#5255)
+- build(deps-dev): bump credo from 1.7.16 to 1.7.17 (#5254)
+- build(deps): bump floki from 0.38.0 to 0.38.1 (#5249)
 
 #### Dashboards
 
